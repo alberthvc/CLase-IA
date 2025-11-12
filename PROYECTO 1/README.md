@@ -176,6 +176,3 @@ Revisa `comparativa_nb.csv` y las matrices `cm_*.csv` para ver los números conc
 
 ---
 
-## 10) Contacto
-
-Si necesitas ayuda para replicar los experimentos, agregar más modelos o preparar la presentación (PPT), abre un issue o escribe un comentario en el notebook.
